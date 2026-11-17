@@ -1,0 +1,6 @@
+{
+  "name": "Skill Exchange System",
+  "description": "A platform where users can teach skills they know and learn skills from others without paying money. Features skill discovery, requests, chat, sessions, ratings, and a Java Spring Boot & MySQL code center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
